@@ -1,0 +1,17 @@
+.product {
+  text-align: center;
+  margin: 20px;
+  
+}
+
+.buttons {
+  margin-top: 20px;
+}
+.title {
+  color: red;
+}
+button {
+  margin: 0 400px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
